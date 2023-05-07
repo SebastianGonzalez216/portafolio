@@ -52,7 +52,7 @@ header{
 
 .dos{
     background-color: #0e0727b9;
-    height: 700px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -67,11 +67,14 @@ header{
 .tech-list{
     display: flex;
     justify-content: space-between;
-    padding-top: 10px;
+    padding-top: 20px;
+    
 }
 
 .tech{
-    height: 90px;
+    height: 80px;
+    width: 100px;
+    padding-inline-start: 30px;
 }
 
 .tres{
@@ -81,7 +84,7 @@ header{
     justify-content: flex-start;
     flex-direction: column;
     align-items: center;
-    color: #F2F2F2;
+    color: #ffffff;
 }
 .proyectos{
     width: 60%;
